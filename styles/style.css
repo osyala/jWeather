@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+
+
+
+body{
+	background: #92dddc;
+	background: radial-gradient at center, #92dddc 0%, #75d1d0 41%, #4abfbd 69%, #4abfbd 100%);
+	background-size: cover;
+}
+
+h1{
+  text-align:center;
+  font-family: 'Lobster';
+}
+
+h2, p {
+  text-align:center;
+  font-family: 'Poiret One';
+}
+
+canvas {
+  margin: auto;
+  display:block;
+}
